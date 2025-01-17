@@ -1,0 +1,14 @@
+C:\devHalyssen\StopWatch\bin\Debug\net9.0\StopWatch.exe
+C:\devHalyssen\StopWatch\bin\Debug\net9.0\StopWatch.deps.json
+C:\devHalyssen\StopWatch\bin\Debug\net9.0\StopWatch.runtimeconfig.json
+C:\devHalyssen\StopWatch\bin\Debug\net9.0\StopWatch.dll
+C:\devHalyssen\StopWatch\bin\Debug\net9.0\StopWatch.pdb
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfoInputs.cache
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfo.cs
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.dll
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\refint\StopWatch.dll
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.pdb
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\StopWatch.genruntimeconfig.cache
+C:\devHalyssen\StopWatch\obj\Debug\net9.0\ref\StopWatch.dll
